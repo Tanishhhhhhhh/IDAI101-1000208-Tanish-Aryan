@@ -14,3 +14,5 @@ Model Evaluation:
 Applications & Future Potential:
                                 This model has immediate applications in fields like wildlife conservation, where it could assist in tracking animal species in real-time, or in mobile apps that identify animals in photos for pet owners or 
                                 enthusiasts. The model could also be integrated into educational tools for learning about animals.
+
+Final model- https://teachablemachine.withgoogle.com/models/TfcnniAvW/
