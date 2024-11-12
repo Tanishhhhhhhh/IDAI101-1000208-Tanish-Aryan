@@ -16,3 +16,5 @@ Applications & Future Potential:
                                 enthusiasts. The model could also be integrated into educational tools for learning about animals.
 
 Final model- https://teachablemachine.withgoogle.com/models/TfcnniAvW/
+Training Data- https://drive.google.com/drive/folders/1hq3ZPLx4F4VhbwxYzYGtgh4-oRjN_nXj?usp=sharing
+Testing Data- https://drive.google.com/drive/folders/1UXnFvpjq9KT7ElwphezgKetI2sqY0CUM?usp=sharing
