@@ -1,16 +1,16 @@
 Project Overview:
-This project focuses on developing an AI model capable of recognizing three animal categories: cats, dogs, and parrots. Built using Google Teachable Machine, it provides a foundation for applications in wildlife monitoring, pet identification, and various animal recognition tasks.
+This project focuses on developing an AI model capable of recognizing three animal categories: cats, dogs, and parrots. Built using Google Teachable Machine, it serves as a foundational system for applications in wildlife monitoring, pet identification, and other animal-related recognition tasks.
 
 Data Collection & Training Process:
-To create an effective model, a well-curated dataset was assembled with images of diverse breeds, colors, and poses of cats, dogs, and parrots. The model was trained on Google Teachable Machine, which allowed for a no-code approach that streamlined the development process and facilitated optimization. The training focused on achieving a balanced model capable of accurate predictions while minimizing errors across all three classes.
+To create an effective model, a well-curated dataset was assembled, consisting of images of diverse breeds, colors, and poses of cats, dogs, and parrots to enhance model robustness. The model was trained on Google Teachable Machine, taking advantage of its no-code interface to streamline the development process and focus on optimization. The training process aimed to achieve a balanced model capable of accurate predictions while minimizing errors across all three classes.
 
 Model Evaluation:
-With an impressive F1 score of 1.0, this animal recognition model now achieves perfect precision and recall, demonstrating a high level of reliability suitable for real-world applications where accurate animal identification is essential. Future improvements may include expanding the model to recognize additional animal species or enhancing its robustness through even larger, more diverse datasets.
+With an F1 score of 0.91, this animal recognition model demonstrates a strong balance between precision and recall, making it suitable for real-world applications where accurate animal identification is essential. Future improvements could include expanding the model to recognize additional animal species or further refining its accuracy through larger, more diverse datasets.
 
 Applications & Future Potential:
-This model is immediately applicable in areas such as wildlife conservation, where it could assist in tracking species in real-time. It may also be valuable in mobile apps for animal identification for pet owners and enthusiasts, as well as educational tools designed for learning about animals.
+This model has immediate applications in fields like wildlife conservation, where it could assist in tracking animal species in real-time, as well as in mobile apps that identify animals in photos for pet owners and enthusiasts. The model could also be integrated into educational tools designed to aid in learning about animals.
 
-![Screenshot 2024-11-12 205411](https://github.com/user-attachments/assets/be23ba5f-70de-41d2-a623-3056c994adb5)
+![image](https://github.com/user-attachments/assets/f372283b-2860-4b81-b2c6-66897f9ac11b)
 
 
 ![Screenshot 2024-11-12 211826](https://github.com/user-attachments/assets/b86ebe7d-9d10-4087-b2d4-a53bd3df2cf6)
